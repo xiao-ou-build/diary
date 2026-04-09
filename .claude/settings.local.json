@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(*)",
+      "Edit",
+      "MultiEdit",
+      "Write",
+      "Read",
+      "Fetch(*)",
+      "WebSearch(*)",
+      "mcp__*"
+    ],
+    "deny": []
+  }
+}
